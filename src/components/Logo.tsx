@@ -12,7 +12,7 @@ text-lg text-cyan flex items-center
     "
     >
       <img src={logoSvg} alt="CryptoBucks" />
-      <span>CryptoLeo</span>
+      <span>CoinKeyChain</span>
     </Link>
   );
 };
