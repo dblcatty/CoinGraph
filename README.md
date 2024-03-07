@@ -1,4 +1,4 @@
-# CryptoLeo a crypto Tracking Web App
+# CoinKeyChain a crypto Tracking Web App
 
 This is a web application that allows users to track cryptocurrency prices and portfolios.
 
@@ -22,7 +22,7 @@ This is a web application that allows users to track cryptocurrency prices and p
 - Clone the repository:
 
 ```bash
-git clone https://github.com/omondi8399/CryptoLeo
+gh repo clone nur1labs/CoinKeyChain
 ```
 
 - Install dependencies:
