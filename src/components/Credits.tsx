@@ -21,13 +21,13 @@ export const Credits = ({ className }: { className?: string }) => {
   const details: Details = {
     links: {
       gecko: "http://www.coingecko.com",
-      dev: "https://nur1labs.com",
+      dev: "https://t.me/GallantKnight",
     },
     title: {
       prov: "Data provided by",
       gecko: "CoinGecko",
       made: "Site made by",
-      name: "Sora",
+      name: "GallantKnight",
     },
   };
 
